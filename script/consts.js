@@ -1,5 +1,4 @@
 const NUNMBER_OF_TRIES = 6
-const WORD_LENGTH = 5
 
 const data = {
   "language": "pt-BR",
